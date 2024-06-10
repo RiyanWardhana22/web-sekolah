@@ -45,7 +45,7 @@ $aktif = 'visi_misi';
 			<?php require_once 'sidebar.php'; ?>
 		</div>
 		<div class="text-white footer">
-			2019 © Copyright by Fakhrul Fanani Nugroho.
+			2024 © Copyright by Riyan Wardhana.
 		</div>
 	</div>
 

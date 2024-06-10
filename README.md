@@ -6,7 +6,7 @@ Ini merupakan tugas sekolah yang akan saya jadikan sebagai portfolio. Sebenarnya
 
 ### Fiturnya apa saja sih?
 
-Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
+Untuk fiturnya masih sangat sederhana, contohnya sebagai berikut
 
 1. CRUD Artikel
 2. CRUD Kategori Artikel
@@ -15,5 +15,5 @@ Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 5. CRUD Data Siswa
 6. CRUD Data Ekskul
 7. Manajemen Akun
-8. Buku Tamu\*\*
+8. Buku Tamu
 9. dan lain lain
